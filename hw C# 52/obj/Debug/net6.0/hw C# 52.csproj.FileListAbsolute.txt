@@ -1,0 +1,15 @@
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/bin/Debug/net6.0/hw C# 52
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/bin/Debug/net6.0/hw C# 52.deps.json
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/bin/Debug/net6.0/hw C# 52.runtimeconfig.json
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/bin/Debug/net6.0/hw C# 52.dll
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/bin/Debug/net6.0/hw C# 52.pdb
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.csproj.AssemblyReference.cache
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.AssemblyInfoInputs.cache
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.AssemblyInfo.cs
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.csproj.CoreCompileInputs.cache
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.dll
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/refint/hw C# 52.dll
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.pdb
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/hw C# 52.genruntimeconfig.cache
+/Users/aigerim/Desktop/GB it/hw 47,50,52/hw C# 52/obj/Debug/net6.0/ref/hw C# 52.dll
